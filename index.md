@@ -20,8 +20,8 @@ Les données sont hébergées dans l'Union européenne (Google Cloud / Firebase,
 
 ## Vos droits
 
-Conformément au RGPD, vous pouvez exercer vos droits d'accès, de rectification et de suppression en écrivant à : **contact.tupar@gmail.com**
+Conformément au RGPD, vous pouvez exercer vos droits d'accès, de rectification et de suppression en écrivant à : **tupar.contact@gmail.com**
 
 ## Contact
 
-Pour toute question relative à cette politique : **contact.tupar@gmail.com**
+Pour toute question relative à cette politique : **tupar.contact@gmail.com**
