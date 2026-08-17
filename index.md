@@ -16,7 +16,7 @@ TUPAR fonctionne sans compte et ne collecte aucune donnée permettant de vous id
 
 ## Hébergement et durée
 
-Les données sont hébergées dans l'Union européenne (Google Cloud / Firebase, région Belgique). Les signalements de places sont éphémères : ils expirent et sont supprimés automatiquement après quelques minutes à quelques dizaines de minutes.
+Les données sont hébergées dans l'Union européenne (Google Cloud / Firebase, région Belgique). Les places affichées sur la carte sont éphémères : elles expirent après quelques minutes à quelques dizaines de minutes. À des fins d'amélioration du service (estimation des durées de vie des places selon le lieu et l'heure), l'application conserve ensuite un historique anonyme de chaque signalement : position de la place, heures de création et de fin, durée de vie, cause de disparition, et identifiant technique anonyme de l'appareil ayant signalé. Cet historique ne contient aucune donnée nominative et ne décrit jamais vos déplacements — uniquement la vie des places signalées.
 
 ## Vos droits
 
